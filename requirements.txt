@@ -1,0 +1,9 @@
+torch
+torchaudio
+torchvision
+TTS
+pydub
+google-generativeai
+langchain
+langchain-google-genai
+openai-whisper
